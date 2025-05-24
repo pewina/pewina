@@ -1,5 +1,5 @@
-## 👋 Hi, I'm Pewina Francy!<br><br>
-#🎓I'm a second-year student studying Artificial Intelligence and Data Science at Jerusalem College of Engineering, Chennai.<br><br>💡I enjoy building cool projects, learning new things, and exploring how tech can solve real-world problems.  <br>🎨Right now, I'm working on things like a period tracker website, weather prediction website and learning more and UI/UX design.<br><br>Figuring things out as I build them.<br>Thanks for stopping by!<br>
+### 👋 Hi, I'm Pewina Francy!<br>
+<br>🎓I'm a second-year student studying Artificial Intelligence and Data Science at Jerusalem College of Engineering, Chennai.<br><br>💡I enjoy building cool projects, learning new things, and exploring how tech can solve real-world problems.  <br>🎨Right now, I'm working on things like a period tracker website, weather prediction website and learning more and UI/UX design.<br><br>Figuring things out as I build them.<br>Thanks for stopping by!<br>
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=pewina&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=pewina&theme=rose_pine&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pewina&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pewina&icon=7&color=5)](https://visitcount.itsvg.in)
