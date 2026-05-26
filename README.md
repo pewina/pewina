@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Pewina Francy!<br>
-🎓I'm a second-year student studying Artificial Intelligence and Data Science at Jerusalem College of Engineering, Chennai.<br><br>💡I enjoy building cool projects, learning new things, and exploring how tech can solve real-world problems.  <br>🎨Right now, I'm working on things like a period tracker website, weather prediction website and learning more and UI/UX design.<br><br>Figuring things out as I build them.<br>Thanks for stopping by!<br>
+🎓I'm a third-year student studying Artificial Intelligence and Data Science at Jerusalem College of Engineering, Chennai.<br><br>💡I enjoy building cool projects, learning new things, and exploring how tech can solve real-world problems.  <br>🎨Right now, I'm working on things like a period tracker website, weather prediction website and learning more and UI/UX design.<br><br>Figuring things out as I build them.<br>Thanks for stopping by!<br>
 
 
 ## 🌐 Socials:
